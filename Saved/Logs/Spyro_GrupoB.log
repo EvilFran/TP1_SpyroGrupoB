@@ -1195,3 +1195,57 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.08-23.58.42:655][387]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.04.08-23.58.42:675][387]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validando recurso
 [2026.04.08-23.58.42:803][387]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/luffi/Escritorio/Da Vinci/Quinto cuatrimestre/Prog en motores i/PARCIAL1SPYRO/Spyro_GrupoB/Saved/SourceControl/UncontrolledChangelists.json
+[2026.04.08-23.59.31:610][ 68]LogDerivedDataCache: C:/Users/luffi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.09-00.01.28:145][536]LogStreaming: Display: FlushAsyncLoading(396): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.09-00.01.30:088][536]LogSlate: Window 'Nuevo nivel' being destroyed
+[2026.04.09-00.01.30:096][536]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.04.09-00.01.30:172][536]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.04.09-00.01.30:172][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.09-00.01.30:172][536]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.04.09-00.01.30:214][536]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.09-00.01.30:279][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.04.09-00.01.30:333][536]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2026.04.09-00.01.30:333][536]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled_1
+[2026.04.09-00.01.30:389][536]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.04.09-00.01.30:409][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.04.09-00.01.30:410][536]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.04.09-00.01.30:410][536]MapCheck: Verificación de mapa completa: 0 errores, 0 advertencias: Tardó 0,119 ms en completarse.
+[2026.04.09-00.01.30:475][537]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.09-00.01.33:555][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.04.09-00.03.12:199][191]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 332.189148
+[2026.04.09-00.03.13:200][194]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.09-00.03.13:200][194]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 332.856018, Update Interval: 319.933472
+[2026.04.09-00.04.07:567][924]LogSlate: Took 0.013060 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.04.09-00.04.16:926][924]LogSlate: Window 'Mensaje' being destroyed
+[2026.04.09-00.04.16:934][924]Message dialog closed, result: Yes, title: Mensaje, text: TP1_GrupoB ya existe. ¿Quieres sustituirlo?
+[2026.04.09-00.04.16:934][924]LogSlate: Window 'Guardar nivel como' being destroyed
+[2026.04.09-00.04.17:238][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.04.09-00.04.17:309][924]LogSavePackage: Moving output files for package: /Game/TP1_GrupoB
+[2026.04.09-00.04.17:309][924]LogSavePackage: Moving '../../../../../Users/luffi/Escritorio/Da Vinci/Quinto cuatrimestre/Prog en motores i/PARCIAL1SPYRO/Spyro_GrupoB/Saved/TP1_GrupoB824D27FB4703EA9E2EC2F2AD40FA4991.tmp' to '../../../../../Users/luffi/Escritorio/Da Vinci/Quinto cuatrimestre/Prog en motores i/PARCIAL1SPYRO/Spyro_GrupoB/Content/TP1_GrupoB.umap'
+[2026.04.09-00.04.17:326][924]LogFileHelpers: Saving map 'TP1_GrupoB' took 0.368
+[2026.04.09-00.04.17:326][924]Cmd: MAP LOAD FILE="../../../../../Users/luffi/Escritorio/Da Vinci/Quinto cuatrimestre/Prog en motores i/PARCIAL1SPYRO/Spyro_GrupoB/Content/TP1_GrupoB.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.04.09-00.04.17:356][924]LogWorld: UWorld::CleanupWorld for TP1_GrupoB, bSessionEnded=true, bCleanupResources=true
+[2026.04.09-00.04.17:356][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.09-00.04.17:374][924]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.04.09-00.04.17:395][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.04.09-00.04.17:396][924]LogStreaming: Display: FlushAsyncLoading(399): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.09-00.04.17:398][924]LogAudio: Display: Audio Device (ID: 1) registered with world 'TP1_GrupoB'.
+[2026.04.09-00.04.17:398][924]LogChaosDD: Creating Chaos Debug Draw Scene for world TP1_GrupoB
+[2026.04.09-00.04.17:411][924]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.04.09-00.04.17:432][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.04.09-00.04.17:439][924]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.04.09-00.04.17:439][924]MapCheck: Verificación de mapa completa: 0 errores, 0 advertencias: Tardó 0,054 ms en completarse.
+[2026.04.09-00.04.17:525][924]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.09-00.04.17:525][924]LogContentValidation: Enabled validators:
+[2026.04.09-00.04.17:525][924]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.09-00.04.17:525][924]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.09-00.04.17:525][924]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.09-00.04.17:525][924]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.09-00.04.17:525][924]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.09-00.04.17:525][924]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.09-00.04.17:525][924]AssetCheck: /Game/TP1_GrupoB Validando recurso
+[2026.04.09-00.04.17:558][925]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
