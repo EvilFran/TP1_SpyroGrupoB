@@ -1,0 +1,70 @@
+# =========================
+# Unreal Engine
+# =========================
+
+# Build folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.sln
+*.sdf
+*.opensdf
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Xcode (Mac)
+*.xcworkspace
+*.xcuserdata
+*.xcuserstate
+
+# Logs
+Saved/Logs/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Crash reports
+*.dmp
+
+# Backup files
+*.bak
+*.backup
+
+# Python (por si usás scripts)
+__pycache__/
+*.pyc
+
+# Node (si hay tools)
+node_modules/
+
+# Environment files (por seguridad)
+.env
+.env.local
+
+# =========================
+# Opcional (activar si querés)
+# =========================
+
+# Ignorar archivos de autosave
+Saved/Autosaves/
+
+# Ignorar configuraciones locales del editor
+Saved/Config/WindowsEditor/
+
+# =========================
+# FIN
+# =========================
