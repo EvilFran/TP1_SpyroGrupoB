@@ -5,6 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Lista de cambios no controlados predeterminada",
 			"files": [
+				"D:/Users/luffi/Escritorio/Da Vinci/Quinto cuatrimestre/Prog en motores i/PARCIAL1SPYRO/Spyro_GrupoB/Content/TP1_GrupoB.umap",
+				"D:/Users/luffi/Escritorio/Da Vinci/Quinto cuatrimestre/Prog en motores i/PARCIAL1SPYRO/Spyro_GrupoB/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/CY/IC8UOHV0B6BK9N1KH0N3NF.uasset",
+				"D:/Users/luffi/Escritorio/Da Vinci/Quinto cuatrimestre/Prog en motores i/PARCIAL1SPYRO/Spyro_GrupoB/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/EI/Q7MK1K3Z7O9W1ZR1RNLQOO.uasset",
+				"D:/Users/luffi/Escritorio/Da Vinci/Quinto cuatrimestre/Prog en motores i/PARCIAL1SPYRO/Spyro_GrupoB/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/UA/BP0BAM8AIDPKD2YVWWK1GL.uasset",
+				"D:/Users/luffi/Escritorio/Da Vinci/Quinto cuatrimestre/Prog en motores i/PARCIAL1SPYRO/Spyro_GrupoB/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/4D/MGS0ZIXTWXVZJNYQ8DYWU7.uasset",
+				"D:/Users/luffi/Escritorio/Da Vinci/Quinto cuatrimestre/Prog en motores i/PARCIAL1SPYRO/Spyro_GrupoB/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/ZB/VBHAOA7FB2L0EDGES9JZYQ.uasset",
+				"D:/Users/luffi/Escritorio/Da Vinci/Quinto cuatrimestre/Prog en motores i/PARCIAL1SPYRO/Spyro_GrupoB/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/0P/7SD68K8FH8G8QPULMD71B5.uasset",
+				"D:/Users/luffi/Escritorio/Da Vinci/Quinto cuatrimestre/Prog en motores i/PARCIAL1SPYRO/Spyro_GrupoB/Content/Materials/Rojo.uasset",
+				"D:/Users/luffi/Escritorio/Da Vinci/Quinto cuatrimestre/Prog en motores i/PARCIAL1SPYRO/Spyro_GrupoB/Content/Rojo.uasset",
+				"D:/Users/luffi/Escritorio/Da Vinci/Quinto cuatrimestre/Prog en motores i/PARCIAL1SPYRO/Spyro_GrupoB/Content/Materials/Gem.uasset",
+				"D:/Users/luffi/Escritorio/Da Vinci/Quinto cuatrimestre/Prog en motores i/PARCIAL1SPYRO/Spyro_GrupoB/Content/ThirdPerson/Blueprints/BP_Gem.uasset",
+				"D:/Users/luffi/Escritorio/Da Vinci/Quinto cuatrimestre/Prog en motores i/PARCIAL1SPYRO/Spyro_GrupoB/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Users/luffi/Escritorio/Da Vinci/Quinto cuatrimestre/Prog en motores i/PARCIAL1SPYRO/Spyro_GrupoB/Content/ThirdPerson/Blueprints/BP_Door.uasset",
+				"D:/Users/luffi/Escritorio/Da Vinci/Quinto cuatrimestre/Prog en motores i/PARCIAL1SPYRO/Spyro_GrupoB/Content/Input/IA_PlayerCrouch.uasset",
 				"E:/GitProjects/TP1_SpyroGrupoB/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/HG/1ZTTUQPTUNKV761VOUTVD5.uasset",
 				"E:/GitProjects/TP1_SpyroGrupoB/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"E:/GitProjects/TP1_SpyroGrupoB/Content/Rojo.uasset",
@@ -14,14 +28,7 @@
 				"D:/USUARIO/Documents/GitHub/TP1_SpyroGrupoB/Content/Input/Actions/IA_Attack.uasset",
 				"D:/USUARIO/Documents/GitHub/TP1_SpyroGrupoB/Content/Input/Actions/IA_Crouch.uasset",
 				"D:/USUARIO/Documents/GitHub/TP1_SpyroGrupoB/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"D:/USUARIO/Documents/GitHub/TP1_SpyroGrupoB/Content/Blueprints/PlataformaMovible/PlataformaMovible.uasset",
-				"D:/Users/luffi/Escritorio/Da Vinci/Quinto cuatrimestre/Prog en motores i/PARCIAL1SPYRO/Spyro_GrupoB/Content/TP1_GrupoB.umap",
-				"D:/Users/luffi/Escritorio/Da Vinci/Quinto cuatrimestre/Prog en motores i/PARCIAL1SPYRO/Spyro_GrupoB/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/CY/IC8UOHV0B6BK9N1KH0N3NF.uasset",
-				"D:/Users/luffi/Escritorio/Da Vinci/Quinto cuatrimestre/Prog en motores i/PARCIAL1SPYRO/Spyro_GrupoB/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/EI/Q7MK1K3Z7O9W1ZR1RNLQOO.uasset",
-				"D:/Users/luffi/Escritorio/Da Vinci/Quinto cuatrimestre/Prog en motores i/PARCIAL1SPYRO/Spyro_GrupoB/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/UA/BP0BAM8AIDPKD2YVWWK1GL.uasset",
-				"D:/Users/luffi/Escritorio/Da Vinci/Quinto cuatrimestre/Prog en motores i/PARCIAL1SPYRO/Spyro_GrupoB/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/4D/MGS0ZIXTWXVZJNYQ8DYWU7.uasset",
-				"D:/Users/luffi/Escritorio/Da Vinci/Quinto cuatrimestre/Prog en motores i/PARCIAL1SPYRO/Spyro_GrupoB/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/ZB/VBHAOA7FB2L0EDGES9JZYQ.uasset",
-				"D:/Users/luffi/Escritorio/Da Vinci/Quinto cuatrimestre/Prog en motores i/PARCIAL1SPYRO/Spyro_GrupoB/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/0P/7SD68K8FH8G8QPULMD71B5.uasset"
+				"D:/USUARIO/Documents/GitHub/TP1_SpyroGrupoB/Content/Blueprints/PlataformaMovible/PlataformaMovible.uasset"
 			]
 		}
 	]
